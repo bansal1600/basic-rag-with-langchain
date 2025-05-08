@@ -1,0 +1,7 @@
+Built a GenAI-powered product attribute summarization tool, leveraging LLMs to generate concise, user-friendly product descriptions from complex specifications, improving customer engagement and purchase decisions.
+Enhanced conversion rates by 12% through the implementation of a Similar Item product Recommendation Model using content-based filtering algorithms and NLP vector embedding techniques.
+Built interactive executive dashboards on Looker, sourcing data from Big Query and Adobe Analytics; dashboards are now utilized by over 40+ Store Managers, enhancing visibility into key performance metrics and operational efficiency.
+Assisted in increasing mortgage application volume by 18% by analysing customer data and helping to refine targeted marketing campaigns, using tools like AWS and ETL processes.
+Supported a 12% boost in lead conversion rates by developing insights and recommendations contributing to the optimization of marketing strategies and customer outreach.
+Devised pattern-mining algorithms to find page-URL from production logs to detect performance bottlenecks within different applications, enhancing their testing capability by 10% - 25%.
+Applied strong data engineering skills, including data modelling and ETL (Extract, Transform, Load) processes, to design and implement scalable solutions for log analysis and real-time data processing.
